@@ -13,4 +13,7 @@ While creating my professional portfolio, I learned how to use wireframing, HTML
 Minimalistic styling and simple links and buttons of my professional portfolio make it look friendly and easy to navigate. 
 
 URL link: https://catpolk.github.io/catherine-polk-portfolio/
+Github link: https://github.com/catpolk/catherine-polk-portfolio
+
+![alt screenshot of the portfolio](./assets/images/portfolio.jpeg)
 
